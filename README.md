@@ -18,9 +18,9 @@ The project uses 4 main tables:
 
 ## Tools Used
 
+- **Python and Pandas**: For data transformation and aggregation
 - **SQL**: For querying and joining data across multiple tables
-- **Pandas**: For data transformation and aggregation
-- **Matplotlib & Seaborn**: For visualizations
+- **Matplotlib, Seaborn and Numpy**: For visualizations
 
 
 
