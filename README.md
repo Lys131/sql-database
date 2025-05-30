@@ -11,7 +11,7 @@ This project uses SQL and Python to analyze customer order data and identify the
 ## Data Sources
 The project uses 4 main tables:
 
-- `cor_orders`: All customer orders (meal name, quantity, time, etc.)
+- `orders`: All customer orders (meal name, quantity, time, etc.)
 - `user`: Customer profiles (gender, subscription type, region)
 - `location`: Mapping of addresses and regions
 - `product`: Product names and prices
