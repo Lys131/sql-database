@@ -1,0 +1,243 @@
+prod_id,product,n_orders
+prod_1,"Acqua Minerale",97
+prod_10,"Aperol Spritz",30
+prod_100,Grits,43
+prod_101,"Guacamole Mix",23
+prod_102,Gyros,33
+prod_103,Haggis,32
+prod_104,"Hot Chocolate",27
+prod_105,"Hummus Mix",32
+prod_106,"Irish Coffee",33
+prod_107,"Irish Stew",28
+prod_108,"Italian Soda",68
+prod_109,"Jamon Iberico",27
+prod_11,Aranciata,90
+prod_110,"Jello Mix",25
+prod_111,"Karelian Pasty",42
+prod_112,Kartoffelsalat,23
+prod_113,Kebab,39
+prod_114,Kiflice,29
+prod_115,Knedle,44
+prod_116,Kottbullar,74
+prod_117,"Lapland Cheese",39
+prod_118,Latte,19
+prod_119,Lecso,76
+prod_12,"Aubergine Parmigiana",33
+prod_120,Lecso,76
+prod_121,Lefse,39
+prod_122,"Lemonade Mix",28
+prod_123,"Lentejas a la Jardinera",35
+prod_124,"Lentil Salad Mix",35
+prod_125,Limonata,102
+prod_126,Limoncello,28
+prod_127,"Limoncello Spritz",75
+prod_128,Limoncino,113
+prod_129,"Lingonberry Jam",42
+prod_13,"BBQ Sauce Mix",31
+prod_130,"Liquore Strega",80
+prod_131,Lurisia,79
+prod_132,Lutefisk,57
+prod_133,Langos,35
+prod_134,"Mac and Cheese",39
+prod_135,Macchiato,35
+prod_136,Martini,79
+prod_137,"Mashed Potatoes",28
+prod_138,Maultaschen,26
+prod_139,"Mediterranean Salad",30
+prod_14,"Baba Ganoush",31
+prod_140,"Microwave Burrito",31
+prod_141,"Microwave Lasagna",30
+prod_142,"Microwave Macaroni",34
+prod_143,"Microwave Pizza",46
+prod_144,"Microwave Popcorn",38
+prod_145,"Miso Soup",35
+prod_146,Mocha,26
+prod_147,"Moules Frites",23
+prod_148,Moussaka,34
+prod_149,"Muffin Mix",37
+prod_15,"Bacalhau a Bras",26
+prod_150,Mamaliga,36
+prod_151,"Negroni Sbagliato",41
+prod_152,Noodles,37
+prod_153,Oatmeal,31
+prod_154,Omelette,29
+prod_155,Paella,23
+prod_156,Palt,34
+prod_157,"Pancake Mix",31
+prod_158,"Pancake Syrup",29
+prod_159,Paprikash,33
+prod_16,"Bagna Cauda",43
+prod_160,Pasta,26
+prod_161,"Pasta Carbonara",21
+prod_162,"Pasta Salad Mix",29
+prod_163,Pellegrino,94
+prod_164,Pho,36
+prod_165,"Pie Crust Mix",41
+prod_166,Pierogi,57
+prod_167,Pirozhki,35
+prod_168,Pissaladiere,26
+prod_169,"Pizza Margherita",28
+prod_17,"Bakewell Tart",38
+prod_170,Pizzoccheri,34
+prod_171,Polenta,36
+prod_172,Porridge,29
+prod_173,"Potato Latkes",32
+prod_174,"Potato Salad Mix",38
+prod_175,Potica,41
+prod_176,Prosecco,50
+prod_177,"Protein Shake Mix",34
+prod_178,Pudding,29
+prod_179,Pyttipanna,34
+prod_18,Baklava,70
+prod_180,Quinoa,36
+prod_181,"Quinoa Salad Mix",29
+prod_182,Raclette,64
+prod_183,Ramen,33
+prod_184,"Ranch Dressing Mix",36
+prod_185,Ratatouille,37
+prod_186,"Ready-to-Eat Curry",34
+prod_187,"Ready-to-Eat Salad",19
+prod_188,"Ready-to-Eat Sandwich",40
+prod_189,Rice,35
+prod_19,Balkenbrij,26
+prod_190,"Rice Salad Mix",29
+prod_191,"Ricotta Gnocchi",25
+prod_192,Rinderroulade,34
+prod_193,Risotto,39
+prod_194,Ristretto,30
+prod_195,"Roast Beef and Yorkshire Pudding",28
+prod_196,Rosso,95
+prod_197,Ruisleipa,30
+prod_198,Rosti,72
+prod_199,"Saffron Risotto",26
+prod_2,Aebleskiver,42
+prod_20,"Bean Salad Mix",27
+prod_200,"Salade Nicoise",22
+prod_201,Salmiakki,37
+prod_202,"Salmon Gravlax",30
+prod_203,"Salsa Mix",27
+prod_204,Sambuca,101
+prod_205,Sanbitter,104
+prod_206,Sarma,30
+prod_207,Sauerbraten,26
+prod_208,Schnitzel,48
+prod_209,"Scotch Egg",33
+prod_21,"Beef Broth",38
+prod_210,Sgroppino,26
+prod_211,Shawarma,29
+prod_212,"Smoothie Mix",20
+prod_213,Smorgastarta,30
+prod_214,Smorrebrod,31
+prod_215,Soup,25
+prod_216,"Soup Base",32
+prod_217,"Soup Mix",41
+prod_218,Spanakopita,37
+prod_219,"Spanish Omelette",25
+prod_22,Bellini,32
+prod_220,Svickova,27
+prod_221,"Tabouleh Mix",35
+prod_222,"Tarte Flambee",27
+prod_223,Tartiflette,33
+prod_224,"Teriyaki Sauce Mix",30
+prod_225,Tiramisu,29
+prod_226,"Tomato Sauce Mix",38
+prod_227,Tonica,91
+prod_228,Trdelnik,25
+prod_229,"Tuna Salad Mix",28
+prod_23,Bianco,91
+prod_230,"Turkish Coffee",38
+prod_231,"Turkish Delight",29
+prod_232,Tzatziki,28
+prod_233,"Tete de Moine",25
+prod_234,"Vegetable Broth",39
+prod_235,Vermouth,83
+prod_236,"Vinaigrette Mix",29
+prod_237,Vino,71
+prod_238,"Welsh Rarebit",32
+prod_239,"Wiener Wurstchen",39
+prod_24,Bicerin,28
+prod_240,Wienerschnitzel,38
+prod_241,Zwiebelkuchen,30
+prod_242,Cevapi,56
+prod_25,Birra,68
+prod_26,Blini,29
+prod_27,Borscht,32
+prod_28,Bouillabaisse,30
+prod_29,Bratwurst,32
+prod_3,Affogato,27
+prod_30,"Bread Mix",34
+prod_31,Brio,97
+prod_32,"Brownie Mix",29
+prod_33,"Bubur Ayam",28
+prod_34,"Bulgur Salad Mix",25
+prod_35,Burek,35
+prod_36,"Bundner Nusstorte",34
+prod_37,"Cabbage Rolls",28
+prod_38,"Caesar Dressing Mix",24
+prod_39,"Caesar Salad Mix",31
+prod_4,"Affogato al Caffe",85
+prod_40,"Cake Frosting Mix",35
+prod_41,"Cake Mix",37
+prod_42,"Caldo Verde",40
+prod_43,"Campari Soda",35
+prod_44,Caponata,22
+prod_45,Cappuccino,27
+prod_46,Cassoulet,25
+prod_47,Cedrata,182
+prod_48,Cevapi,56
+prod_49,"Chicken Broth",28
+prod_5,"Alfredo Sauce Mix",35
+prod_50,"Chicken Salad Mix",53
+prod_51,"Chickpea Salad Mix",41
+prod_52,"Chili Mix",36
+prod_53,Chinotto,93
+prod_54,Churros,35
+prod_55,Cider,63
+prod_56,Coffee,30
+prod_57,"Coleslaw Mix",29
+prod_58,"Cookie Mix",29
+prod_59,Corretto,34
+prod_6,"Amaretto Sour",71
+prod_60,Couscous,29
+prod_61,"Couscous Salad Mix",37
+prod_62,"Cream of Mushroom Soup",28
+prod_63,"Creme Brulee",22
+prod_64,Croissant,21
+prod_65,"Cullen Skink",31
+prod_66,"Cup Noodles",23
+prod_67,Cynar,100
+prod_68,Digestivo,64
+prod_69,Dolma,30
+prod_7,Amaro,99
+prod_70,"Egg Salad Mix",42
+prod_71,Espresso,32
+prod_72,"Extra Dry",99
+prod_73,"Falafel Mix",26
+prod_74,Fasolada,37
+prod_75,Fernet-Branca,105
+prod_76,Fideua,30
+prod_77,"Fish Broth",47
+prod_78,"Fish and Chips",32
+prod_79,"Flat White",34
+prod_8,Americano,29
+prod_80,Fondue,33
+prod_81,Fougasse,27
+prod_82,"Freeze-Dried Ice Cream",35
+prod_83,Frikadeller,28
+prod_84,"Frozen Burrito",29
+prod_85,"Frozen Dumplings",35
+prod_86,"Frozen Pancakes",42
+prod_87,"Fruit Salad Mix",37
+prod_88,Frullato,65
+prod_89,"Galette Complete",30
+prod_9,Aperitivo,56
+prod_90,Gassosa,96
+prod_91,"Gazpacho Mix",32
+prod_92,"Gelato Shake",121
+prod_93,Gibanica,36
+prod_94,"Gin Tonic",99
+prod_95,Goulash,32
+prod_96,Granita,82
+prod_97,Grappa,43
+prod_98,Gravlax,24
+prod_99,"Gravy Mix",26
